@@ -15,8 +15,8 @@
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "chrome-aws-lambda": "10.1.0",
-    "puppeteer-core": "15.3.2"
+    "chrome-aws-lambda": "^8.0.2",
+    "puppeteer-core": "^8.0.0"
   },
   "devDependencies": {
     "eslint": "8.36.0",
